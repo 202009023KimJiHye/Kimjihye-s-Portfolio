@@ -73,7 +73,7 @@ header{width: 100%;
 .index_con02_top{width: 1000px; height: 360px; margin: 0 auto; margin-top: 40px; }
 .index_before{position: absolute;}
 .index_afer{position: relative; opacity: 0%;}
-
+.index_afer:hover{opacity: 60%;}
 .index_package{width: 490px; height: 360px; float: left; background-color: #ffffff; position:relative;}
 
 
